@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1740362888.76604 "c:/Users/micom/Desktop/Resume/resume.tex" "resume.pdf" "resume" 1740362890.20365 0
-  "c:/Users/micom/Desktop/Resume/resume.tex" 1740362886 14100 31a54059a85f1f8ceeb7214889e35ebc ""
+["pdflatex"] 1740368942.34116 "c:/Users/micom/Desktop/Resume/resume.tex" "resume.pdf" "resume" 1740368943.91896 0
+  "c:/Users/micom/Desktop/Resume/resume.tex" 1740368941 14111 22c509d0e1d77beba188fa43fe610a55 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1740210675 2920 d63721872b8c77041b88e51b8f7c291d ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1740210675 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1740210675 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -28,7 +28,6 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmr8.tfm" 1740212010 11864 309fd7f43e4a0ba39f6f7644d76e8edf ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmr9.tfm" 1740212010 11884 c93929a6974dce79eabb778f219d7e18 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmri10.tfm" 1740212010 16968 1b588d0f410bd67a83eaecf8c64b2a43 ""
-  "c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmri8.tfm" 1740212010 16976 7228e7c7bc486e2318fc496e0de33875 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmri9.tfm" 1740212010 16968 4675b6ed6aaa9b6b1446f80f565cd449 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb" 1740210675 204258 aba4eee5a17f42be814f3d784d0cfb5a ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb" 1740210675 58496 4821a9fdf0d63b8442701160cb61c746 ""
@@ -121,8 +120,8 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1740216102 5512713 1e2df2d1e914a8052c604db674da6db6 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1740216382 3352889 f0ed1f813903d19e9d8f70075270a427 ""
   "c:/texlive/2024/texmf.cnf" 1740216068 713 e69b156964470283e0530f5060668171 ""
-  "resume.aux" 1740362889 1073 01918ed8ceff90183fd8e2a32b9c336c "pdflatex"
-  "resume.tex" 1740362886 14100 31a54059a85f1f8ceeb7214889e35ebc ""
+  "resume.aux" 1740368943 1073 01918ed8ceff90183fd8e2a32b9c336c "pdflatex"
+  "resume.tex" 1740368941 14111 22c509d0e1d77beba188fa43fe610a55 ""
   (generated)
   "resume.aux"
   "resume.log"
