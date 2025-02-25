@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1740368942.34116 "c:/Users/micom/Desktop/Resume/resume.tex" "resume.pdf" "resume" 1740368943.91896 0
-  "c:/Users/micom/Desktop/Resume/resume.tex" 1740368941 14111 22c509d0e1d77beba188fa43fe610a55 ""
+["pdflatex"] 1740459972.05479 "c:/Users/micom/Desktop/Resume/resume.tex" "resume.pdf" "resume" 1740459974.84345 0
+  "c:/Users/micom/Desktop/Resume/resume.tex" 1740459969 14112 d29889ca1e3dd7530f4c8a58a3104028 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1740210675 2920 d63721872b8c77041b88e51b8f7c291d ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1740210675 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1740210675 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -120,8 +120,8 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1740216102 5512713 1e2df2d1e914a8052c604db674da6db6 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1740216382 3352889 f0ed1f813903d19e9d8f70075270a427 ""
   "c:/texlive/2024/texmf.cnf" 1740216068 713 e69b156964470283e0530f5060668171 ""
-  "resume.aux" 1740368943 1073 01918ed8ceff90183fd8e2a32b9c336c "pdflatex"
-  "resume.tex" 1740368941 14111 22c509d0e1d77beba188fa43fe610a55 ""
+  "resume.aux" 1740459974 1073 01918ed8ceff90183fd8e2a32b9c336c "pdflatex"
+  "resume.tex" 1740459969 14112 d29889ca1e3dd7530f4c8a58a3104028 ""
   (generated)
   "resume.aux"
   "resume.log"
