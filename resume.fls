@@ -174,7 +174,7 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm
 INPUT c:/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT c:/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT c:/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
-INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1regular.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT c:/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
 INPUT c:/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
 INPUT c:/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
@@ -203,9 +203,7 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
-INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmri9.tfm
-INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmr9.tfm
 INPUT c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc
@@ -213,12 +211,13 @@ INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT resume.aux
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb
-INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
+INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb
